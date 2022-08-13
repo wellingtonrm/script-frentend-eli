@@ -25,8 +25,11 @@ cd script-frentend-eli
 npm install
 ```
 
-<strong>PASSO 5</strong>: se tudo deu certo vamos rodar o servidor sem error. digite no terminal esses comandos
+<strong>PASSO 5</strong>: Se tudo deu certo vamos rodar o servidor sem error. digite no terminal esses comandos
 
 ```shell
 npm run dev
 ```
+<strong>PASSO 6</strong>: Após todos os passos serem feitos abra link do projeto
+
+<a href="http://localhost:3000">ABRIR PROJETO</a>
