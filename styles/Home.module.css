@@ -165,6 +165,7 @@
   border: none;
   margin-left: 10px;
   border-radius: 5px;
+  color:#222f3e;
 }
 .containerTableTabelaResultTableRowButton button:first-child {
   background-color: red;
